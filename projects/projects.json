@@ -85,17 +85,17 @@
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "#",
+      "view": "https://sammy171207.github.io/QR_Generator/",
       "code": "#"
     }
   },
   {
-    "name": "JavaScript Projects Website",
+    "name": "JavaScript QR Generator",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://sammy171207.github.io/QR_Generator/",
       "code": "#"
     }
   },
