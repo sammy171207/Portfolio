@@ -1,17 +1,17 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
-    "category": "android",
+    "name": "Nike Landing Page",
+    "desc": "Nike shoes landing page: responsive, dynamic, interactive, stylish, user-friendly, immersive, informative.. Built using React Firebase,.",
+    "image": "nike",
+    "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "name": "Dairy Management DashBoard",
+    "desc": "Efficient dairy management system: track, analyze, optimize, streamline, automate, report.. Built using PHP,  and MySql.",
     "image": "sppuprepandroid",
     "category": "android",
     "links": {
@@ -20,10 +20,10 @@
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "name": "Food Ordering Application ",
+    "desc": "Streamlined food ordering app: browse, select, customize, order, pay, track, enjoy.",
     "image": "newsboxandroid",
-    "category": "android",
+    "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
