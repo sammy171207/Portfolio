@@ -40,10 +40,10 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Gym Landing Page and Dashboard",
+    "desc": "A gym website with user and admin dashboards, built using Java servlets, MySQL database, Apache Tomcat server, and HTML/CSS for frontend.",
     "image": "instagrammern",
-    "category": "mern",
+    "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
